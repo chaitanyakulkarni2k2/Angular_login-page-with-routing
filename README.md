@@ -3,4 +3,4 @@ This is a simple login and sign up page is designed in angular. But here i have 
 
 
 ##### Output #####
-![login_image](https://github.com/chaitanyakulkarni2k2/Angular_login-page-with-routing/assets/108442884/cb1f898f-3969-4066-bd94-1901630dfa67)
+![login_page1](https://github.com/chaitanyakulkarni2k2/Angular_login-page-with-routing/assets/108442884/ed975c66-54f6-4366-aea4-8342a6428ffe)
